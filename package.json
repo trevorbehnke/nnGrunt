@@ -1,0 +1,23 @@
+{
+  "name": "nn-grunt-playlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamshaunjp/grunt-playlist.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamshaunjp/grunt-playlist/issues"
+  },
+  "homepage": "https://github.com/iamshaunjp/grunt-playlist#readme",
+  "devDependencies": {
+    "grunt": "^1.4.1",
+    "grunt-contrib-concat": "^2.0.0"
+  }
+}
